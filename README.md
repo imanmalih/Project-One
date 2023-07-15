@@ -7,9 +7,11 @@ Research Questions:
 
 "Compare the top sales per country by year and video game name", "Compare by genre, platforms, publisher", "how the ranking changed over the years".
 
-Q1:What genre of games is the most preferred in each region? (1 graph visualization) 
+Q:What genre of games is the most preferred in each region? (1 graph visualization) 
 
-Q2: If I wanted to create a game in each region, which platform should I use? (3 graphs per region)
+Q:How has the sales changed over the years per region? (trend line graph)
+
+Q: If I wanted to create a game in each region, which platform should I use? (3 graphs per region)
 
 Data Sets To Be Used: "https://www.kaggle.com/datasets/thedevastator/global-video-game-sales?resource=download"
 
