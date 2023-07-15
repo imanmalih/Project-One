@@ -7,7 +7,7 @@ Research Questions:
 
 "Compare the top sales per country by year and video game name", "Compare by genre, platforms, publisher", "how the ranking changed over the years".
 
-Q1:What genre of games sells the best in each region? (1 graph visualization) 
+Q1:What genre of games is the most preferred in each region? (1 graph visualization) 
 
 Q2: If I wanted to create a game in each region, which platform should I use? (3 graphs per region)
 
