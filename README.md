@@ -1,10 +1,12 @@
 # Project-One
 Project Title: Global Video Games Sales 
-Team Members: A'Nayah, Ivan, Brittney
+
+Team Members: A'Nayah, Ivan, Brittney, Iman
+
 Project Description: This data set explores the various trends of marketable gaming consoles between the years of 1980-2020 in the North American, European, and Japanese regions. Our intent is to use this data set to help us determine the best genre, platform, and publisher to aid in the development of our game.
 
 
-Research Questions: As game producers, we want to learn what are the most popular game genre, trends, and publishers, per region, in order to create a game that will be profitable.
+Research Questions:
 
 Q:What genre of games are the most preferred in each region?
 
