@@ -1,7 +1,8 @@
 # Project-One
 Project Title: Global Video Games Sales 
 Team Members: A'Nayah, Ivan, Brittney
-Project Description: This dataset, sourced from vgchartz.com, offers a wealth of insights into the dynamics between platform and genre for the top 100 video games worldwide. Observe which platforms are driving global sales, what genres have been most successful in different regions across the world, and how both of these factors have changed over time. Analyze this data to inform your understanding of the gaming industry and discover trends propelling game developers to success!
+Project Description: This data set explores the various trends of marketable gaming consoles between the years of 1980-2020 in the North American, European, and Japanese regions. Our intent is to use this data set to help us determine the best genre, platform, and publisher to aid in the development of our game. ![image](https://github.com/imanmalih/Project-One/assets/133404805/f4846cba-ad9d-4433-be40-a9dc1c7489ac)
+
 
 Research Questions: As game producers, we want to learn what are the most popular game genre, trends, and publishers, per region, in order to create a game that will be profitable.
 
