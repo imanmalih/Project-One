@@ -39,12 +39,20 @@ Presentation:
 # Analysis
     1. What genre of games are the most preferred in each region?
      - Based on the provided data on video games, we conclude the top sales by genre for North America and Europe are action, sports, and shooter. For Japan, the top three sales based on genre are role-playing, action, and sports.
+     
+     /Users/iman/Desktop/Homework/Project-One/images/sales_by_genre.png
     
     2. How has the sales changed over the years per region?
     - The highest profitable sales peak were between the years 2005 through 2010 for all three regions. Shortly after the sales decreased drastically, we predict it is because of the new way of getting games digitally and access to more used games.
     
+    /Users/iman/Desktop/Homework/Project-One/images/sales_trend.png
+    
     3. If I wanted to create a game in each region, which platform should I use? 
     - We conclude if a game is produced, for the NA Region, the top three platforms are X360, PS2, and Wii. For the EU region, it's PS3,PS2,X360. For the JP region, the top three are DS,PS,PS2.
+    
+    /Users/iman/Desktop/Homework/Project-One/images/na_sales.png
+    /Users/iman/Desktop/Homework/Project-One/images/jp_sales.png
+    /Users/iman/Desktop/Homework/Project-One/images/eu_sales.png
     
     4. Who are the top ten publishers per region?
     - The top publisher for all three regions is Nintendo. 
@@ -52,4 +60,7 @@ Presentation:
     - For the EU Region: Electronic Arts, Activision, Sony, Ubisoftm Take-Two, THQ, Sega, Konami Digital, Microsoft.
     - For the JP Region: Namaco Bandai, Konami Digital, Sony, Capcom, Sega, Square Enix, SquareSoft, Enix, Tecmo Koei. 
     
+/Users/iman/Desktop/Homework/Project-One/images/na_publisher.png
+/Users/iman/Desktop/Homework/Project-One/images/eu_publisher.png
+/Users/iman/Desktop/Homework/Project-One/images/jp_publisher.png
 
