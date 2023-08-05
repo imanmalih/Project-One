@@ -40,26 +40,24 @@ Presentation:
     1. What genre of games are the most preferred in each region?
      - Based on the provided data on video games, we conclude the top sales by genre for North America and Europe are action, sports, and shooter. For Japan, the         top three sales based on genre are role-playing, action, and sports.
      
-     ![sales_by_genre](https://github.com/imanmalih/Project-One/assets/128860080/5121cdba-e42c-4538-8d08-779a832653cf)
-
-     ![sales_by_genre](images/sales_by_genre.png)
      
-     
+![sales_by_genre](images/sales_by_genre.png)
+    
     
     2. How has the sales changed over the years per region?
     
     - The highest profitable sales peak were between the years 2005 through 2010 for all three regions. Shortly after the sales decreased drastically, we predict        it is because of the new way of getting games digitally and access to more used games.
     
-    ![sales_trend(images/images/sales_trend.png)
+![sales_trend](images/sales_trend.png)
     
     
     3. If I wanted to create a game in each region, which platform should I use? 
     
     - We conclude if a game is produced, for the NA Region, the top three platforms are X360, PS2, and Wii. For the EU region, it's PS3,PS2,X360. For the JP             region, the top three are DS,PS,PS2.
-    
-    /Users/iman/Desktop/Homework/Project-One/images/na_sales.png
-    /Users/iman/Desktop/Homework/Project-One/images/jp_sales.png
-    /Users/iman/Desktop/Homework/Project-One/images/eu_sales.png
+
+![platforms](images/na_sales.png)
+![platforms](images/eu_sales.png)
+![platforms](images/jp_sales.png)
     
     4. Who are the top ten publishers per region?
     
@@ -67,8 +65,8 @@ Presentation:
     - However, the following top publishers for the NA Region are Electronic Arts, Activision, Sony, Ubisoft, Take_two, THQ, Microsoft,Sega,Atari.
     - For the EU Region: Electronic Arts, Activision, Sony, Ubisoftm Take-Two, THQ, Sega, Konami Digital, Microsoft.
     - For the JP Region: Namaco Bandai, Konami Digital, Sony, Capcom, Sega, Square Enix, SquareSoft, Enix, Tecmo Koei. 
-    
-/Users/iman/Desktop/Homework/Project-One/images/na_publisher.png
-/Users/iman/Desktop/Homework/Project-One/images/eu_publisher.png
-/Users/iman/Desktop/Homework/Project-One/images/jp_publisher.png
+
+![NA Publisher](images/na_publisher.png)
+![EU Publisher](images/eu_publisher.png)
+![JP Publisher](images/jp_publisher.png)
 
