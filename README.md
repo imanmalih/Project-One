@@ -39,6 +39,8 @@ Presentation:
 # Analysis
     1. What genre of games are the most preferred in each region?
      - Based on the provided data on video games, we conclude the top sales by genre for North America and Europe are action, sports, and shooter. For Japan, the top three sales based on genre are role-playing, action, and sports.
+     ![sales by genre](https://github.com/imanmalih/Project-One/assets/128860080/4003f426-1053-4158-b55c-fdf48fdf0049)
+
     
     2. How has the sales changed over the years per region?
     - The highest profitable sales peak were between the years 2005 through 2010 for all three regions. Shortly after the sales decreased drastically, we predict it is because of the new way of getting games digitally and access to more used games.
