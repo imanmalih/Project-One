@@ -71,10 +71,10 @@ Presentation:
 ![JP Publisher](images/jp_publisher.png)
 
 
-#Conclusion
+# Conclusion
 
 In conclusion, if you want to sell a game in  North America or Europe, it is best to cater to the Action genre for any major consoles. Whereas in Japan, a game catered to Role-playing would be ideal. In selection of a platform, X360 or any version of the PS, would be most profitable  across all three regions. Nintendo is the highest selling publisher across all three regions, more so in Japan, however Electronic Arts is also a beneficial publisher in the North American and European regions. 
-![image](https://github.com/imanmalih/Project-One/assets/133404805/62541dec-fa17-4dd1-8ca4-c46412bff6ae)
+
 
 
 
